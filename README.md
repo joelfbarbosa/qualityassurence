@@ -2,7 +2,8 @@
 
 ## 1. Introdução
 
-### 	  Introdução a Testers de Software;
+### 	  Introdução a Testes de Software;
+        [introducao Teste de Software](https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software/learning/64118d38-e7a0-4e98-becd-c5e52c993e08?back=/track/formacao-quality-assurance-experience&tab=undefined&moduleId=undefined)
 
 ### 	  Introdução ao Git e ao GtHub;
 
