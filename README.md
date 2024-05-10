@@ -27,4 +27,5 @@
 ## 3. Prática 
 
 ### 	  Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+[Criando seu primeiro Repositório no GIT e GitHub para compartilhare seu Progresso](https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso)
 
