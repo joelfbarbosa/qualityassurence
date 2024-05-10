@@ -3,7 +3,8 @@
 ## 1. Introdução
 
 ### 	  Introdução a Testes de Software;
-          [IntroducaoTestedeSoftware](https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software/)
+          [Introducao Teste de Software](https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software)
+          [Sintaxe Básica Markdown](https://github.com/joelfbarbosa/dio-dasafio-github-primeiro-repositorio.git)
 
 ### 	  Introdução ao Git e ao GtHub;
 
