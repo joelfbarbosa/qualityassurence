@@ -9,7 +9,7 @@
 ### 	  Introdução a Mercado de Qualidade de Software;
 
 ### 	  Introdução ao Desenvolvimento Moderno de Software;
-[Introducao Teste de Software](https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software)
+[Introducao ao Desenvolvimento Moderno de Software](https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software)
          
 
 ### 	
