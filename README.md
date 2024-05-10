@@ -5,11 +5,11 @@
 ### 	  Introdução a Testes de Software;
     
 ### 	  Introdução ao Git e ao GtHub;
-                     [Sintaxe Básica Markdown](https://github.com/joelfbarbosa/dio-dasafio-github-primeiro-repositorio.git)
+[Sintaxe Básica Markdown](https://github.com/joelfbarbosa/dio-dasafio-github-primeiro-repositorio.git)
 ### 	  Introdução a Mercado de Qualidade de Software;
 
 ### 	  Introdução ao Desenvolvimento Moderno de Software;
-                    [Introducao Teste de Software](https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software)
+[Introducao Teste de Software](https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software)
          
 
 ### 	
